@@ -7,12 +7,13 @@
 Remember: ```wget <url>```
 
 2.) Write a program to do the following:
--Load image.
--Convert image to HSV color space.
--Threshold the hue to isolate the sun in the flag. Do this by trying several sets of values for Hue, Saturation, and Value, between 0 and 255 to find the values.
--Run the contour detector.
--Draw contours onto original image.
--Show the original image.
+
+- Load image.
+- Convert image to HSV color space.
+- Threshold the hue to isolate the sun in the flag. Do this by trying several sets of values for Hue, Saturation, and Value, between 0 and 255 to find the values.
+- Run the contour detector.
+- Draw contours onto original image.
+- Show the original image.
 
 This should have drawn a circle around the sun in the flag
 
